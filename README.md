@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<div id="header" align="center">
+    <img src="https://media.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif" width="100" />
+</div>
+
 <!--
 **danielgaylord/danielgaylord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
