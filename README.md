@@ -25,7 +25,7 @@ I am an educator, programmer, tinkerer, problem-solver, and gamer currently resi
 
 - :hourglass: In my free time I'm usually solving LeetCode problems and taking part in their weekly contests. Otherwise It's a mixture of personal programming projects :keyboard:, games of any sort :video_game:, or spending time with my family :family_man_woman_boy:.
 
-- :mailbox: You can reach me on [![Linkedin Badge](https://img.shields.io/badge/-Dan Gaylord-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/danielgaylord/) or via [![Gmail Badge](https://img.shields.io/badge/Gmail-white?style=flat&logo=gmail)](mailto:danielgaylord@gmail.com).
+- :mailbox: You can reach me on [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/danielgaylord/) or via [![Gmail Badge](https://img.shields.io/badge/Gmail-white?style=flat&logo=gmail)](mailto:danielgaylord@gmail.com).
 
 <!--
 **danielgaylord/danielgaylord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
