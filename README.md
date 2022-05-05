@@ -18,14 +18,14 @@
 ---
 
 ### :man_technologist: About Me :
-I am an educator, programmer, tinkerer, problem-solver, and gamer currently residing in NYC.
-- :man_teacher: I currently work as the Interim Lead of Academic Strategy for the NYC Department of Education on the CS Education team.
+I am an educator, engineer, tinkerer, problem-solver, and gamer currently residing in NYC.
+- 👨‍💻 I currently work as a Software Engineer at Google on one of their Google Classroom teams.
 
-- :seedling: I'm currently learning React, Flask, and Godot to continue my growth of CS knowledge.
+- 🌱 I'm currently learning a whole plethora of tools to improve my ability in my current role.
 
-- :hourglass: In my free time I'm usually solving LeetCode problems and taking part in their weekly contests. Otherwise It's a mixture of personal programming projects :keyboard:, games of any sort :video_game:, or spending time with my family :family_man_woman_boy:.
+- ⏳ In my free time I'm working on a mixture of personal programming projects ⌨️, games of any sort 🎮, or spending time with my family 👨‍👩‍👦.
 
-- :mailbox: You can reach me on [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/danielgaylord/) or via [![Gmail Badge](https://img.shields.io/badge/Gmail-white?style=flat&logo=gmail)](mailto:danielgaylord@gmail.com).
+- 📫 You can reach me on [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/danielgaylord/) or via [![Gmail Badge](https://img.shields.io/badge/Gmail-white?style=flat&logo=gmail)](mailto:danielgaylord@gmail.com).
 
 <!--
 Other ideas:
@@ -37,8 +37,8 @@ Other ideas:
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
-While I'm not currently a software engineer, I have knowledge and experience using the following...
+### 🛠️ Languages and Tools :
+I have knowledge and experience using the following...
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -56,6 +56,6 @@ While I'm not currently a software engineer, I have knowledge and experience usi
 
 ---
 
-### :fire: My GitHub Stats :
+### 🔥 My GitHub Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=danielgaylord&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danielgaylord&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
